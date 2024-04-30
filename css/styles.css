@@ -1,8 +1,11 @@
 body{
-    background-color: rgb(230, 153, 153);
+    background-color: rgb(174, 223, 229);
 }
 
 .textinho{
     color: red;
     
+}
+.bg-body-tertiary {
+    background-color: rgb(166, 220, 202);
 }
